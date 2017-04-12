@@ -3,7 +3,7 @@ package cn.lwz.test;
 public class Test {
 
 	public static void main(String[] args) {
-		byte a = 2;
+		byte a = 1;
 		short b = 1;
 		char s = 'a';
 		char s1 = 'жа';

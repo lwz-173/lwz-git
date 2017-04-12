@@ -6,16 +6,16 @@ package cn.lwz.test;
 import java.util.Scanner;
 
 /**
- * @author lwz
+ * @author lwz1
  *
  */
 public class ABCTest {
 
 	/**
-	 * @param args
+	 * @param args1
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub1
 		System.out.println("请输入一个整数");
 		Scanner scan = new Scanner(System.in);
 		int n = scan.nextInt();
